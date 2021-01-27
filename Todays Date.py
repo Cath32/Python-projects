@@ -1,7 +1,7 @@
 #
 # Cathrine Bien-aime
 #
-# Date.py
+# Todays Date.py
 #
 # Prompt the user for a date and parser display like meaning
 #
