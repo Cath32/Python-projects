@@ -13,14 +13,6 @@
 def main():
     print("Body Mass Index Calculator ...\n")
 
-    a = 19
-    b = 20
-    c = 21
-    d = 22
-    e = 23
-    f = 24
-    g = 25
-
     
 
     weight = eval(input("Enter your weight (in pounds): "))
