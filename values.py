@@ -3,7 +3,7 @@
 #
 # values.py
 #
-# Given tywo values a&b (a<=b), displays
+# Given two values a&b (a<=b), displays
 #   = list of values from a to b
 #   = sum the values from a to b
 #   = Multiplication of values from a to b
