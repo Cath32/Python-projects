@@ -23,14 +23,10 @@ def main():
     monthIdx = int(dateLst[0])-1
 
     # Display the date
-    print("the date means: ")
+    print("Todays date is: ")
     print("\tDay: " + dateLst[1])
     print("\tMonth: " + months[monthIdx])
     print("\tYear: " + dateLst[2])
-
-    
-
-
 
 main()
  
